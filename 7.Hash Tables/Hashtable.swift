@@ -147,5 +147,5 @@ hashTable.get("Sandra Dee")
 hashTable.get("Ted Baker")
 hashTable.get("Tim Lee")
 
-hashTable["Kevin Flynn"] = "The grid"
-hashTable["Kevin Flynn"]
+// hashTable["Kevin Flynn"] = "The grid"
+// hashTable["Kevin Flynn"]
